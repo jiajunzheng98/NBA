@@ -3,5 +3,9 @@
 * Created 4 extra filters and 2 shot themes(hexbin and scatter) to provide more customized visualization on the shotchart
 * Developed a autocomplete player search bar providing a list of players(image and name) in the suggestion list
  
- 
-<img src="/images/nba1.gif"/> <img src="/images/nba2.png"/> 
+<div style="text-align:center"> 
+<img src="/images/nba1.gif"/>
+</div>
+<div style="text-align:center"> 
+<img src="/images/nba2.png"/> 
+</div>
