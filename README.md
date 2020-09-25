@@ -4,4 +4,4 @@
 * Developed a autocomplete player search bar providing a list of players(image and name) in the suggestion list
  
  
-<img src="/images/nba1.gif" width="470"/> <img src="/images/nba2.png" width="470"/> 
+<img src="/images/nba1.gif" width="425"/> <img src="/images/nba2.png" width="425"/> 
