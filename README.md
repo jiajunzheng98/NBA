@@ -5,6 +5,4 @@
 <p align="center">
 <img src="/images/nba1.gif" height="380" width="520"/>
 </p>
-<p align="center">
-<img src="/images/nba2.png" height="380" width="520"/>
-</p>
+
